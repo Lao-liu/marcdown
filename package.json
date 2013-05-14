@@ -1,0 +1,12 @@
+{
+  "name": "marcdown",
+  "version": "0.1.0",
+  "description": "wrapper to serve md files",
+  "author": "Marc J. Greenberg <codemarc@gmail.com>",
+  "main": "./lib/marcdown.js",
+  "dependencies": {
+    "marked": "~0.2.8",
+    "pkginfo": "~0.3.0"
+  },
+  "readmeFilename": "README.md"
+}
