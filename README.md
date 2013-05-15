@@ -2,7 +2,7 @@
 
 # Marcdown
 
-Converts markdown files to html services them
+Converts markdown files to html
 
 As I am new to node { var well = new ish(); } , I find that I need to read the markdown file(s) that
 are associated with a modules and/or libraries. While there are some pretty good native tools around
@@ -10,7 +10,10 @@ to edit markdown, I often work best in *zen mode*, as a minimalist, using a simp
 and a browser.
 
 *Marcdown* simply wraps a few of the typical node modules to help me read, write and review markdown 
-content (in a browser).
+content (in a browser). And yes, I am aware that I could connect to GitHub and use the builting editor
+to do the same thing, but there are many time where I am not connected or not ready to commit.
+
+
 
 ## Show me the money
 
